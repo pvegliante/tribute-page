@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-image: url('./img/camo.jpg');
+    background-position: center;
+    background-size: cover;
+}
+
+.lcp {
+    font-size: 50px;
+}
+
+.figure {
+    display: inline-block;
+}
+
+.figure img {
+    height: 100%;
+    max-height: 300px;
+}
+
+.mm {
+    text-decoration: underline;
+}
+
+.timeline {
+    text-align: left;
+    max-width: 600px;
+    display: block;
+    margin: auto;
+}
+
+.chestyBtn:hover {
+    background-color: lightgreen;
+}
+
+.marineBtn:hover {
+    background-color: red;
+}
+
+.quotesBtn:hover {
+    background-color: olive;
+}
