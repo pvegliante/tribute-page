@@ -29,14 +29,11 @@ body {
     margin: auto;
 }
 
-.chestyBtn:hover {
+.btn {
+    background-color: grey;
+    transition-duration: .5s;
+}
+
+.btn:hover {
     background-color: lightgreen;
-}
-
-.marineBtn:hover {
-    background-color: red;
-}
-
-.quotesBtn:hover {
-    background-color: olive;
 }
